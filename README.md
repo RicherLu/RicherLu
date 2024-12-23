@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm currently learning cloud applications of Generative AI course right now!
+- I am looking for starting a new job right after lunar new year
+
 <!--
 **RicherLu/RicherLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
